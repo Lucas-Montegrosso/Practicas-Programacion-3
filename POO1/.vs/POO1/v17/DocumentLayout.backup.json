@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\OneDrive\\Escritorio\\Cursu C# Nivel 2\\POO1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60C8E52F-1010-40F9-A1DF-6BEA98F05490}|Interfaz\\Interfaz.csproj|c:\\users\\lucas\\onedrive\\escritorio\\cursu c# nivel 2\\poo1\\interfaz\\animalsalvaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C8E52F-1010-40F9-A1DF-6BEA98F05490}|Interfaz\\Interfaz.csproj|solutionrelative:interfaz\\animalsalvaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C8E52F-1010-40F9-A1DF-6BEA98F05490}|Interfaz\\Interfaz.csproj|c:\\users\\lucas\\onedrive\\escritorio\\cursu c# nivel 2\\poo1\\interfaz\\animaldomestico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C8E52F-1010-40F9-A1DF-6BEA98F05490}|Interfaz\\Interfaz.csproj|solutionrelative:interfaz\\animaldomestico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C8E52F-1010-40F9-A1DF-6BEA98F05490}|Interfaz\\Interfaz.csproj|c:\\users\\lucas\\onedrive\\escritorio\\cursu c# nivel 2\\poo1\\interfaz\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C8E52F-1010-40F9-A1DF-6BEA98F05490}|Interfaz\\Interfaz.csproj|solutionrelative:interfaz\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C8E52F-1010-40F9-A1DF-6BEA98F05490}|Interfaz\\Interfaz.csproj|c:\\users\\lucas\\onedrive\\escritorio\\cursu c# nivel 2\\poo1\\interfaz\\aguila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C8E52F-1010-40F9-A1DF-6BEA98F05490}|Interfaz\\Interfaz.csproj|solutionrelative:interfaz\\aguila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C8E52F-1010-40F9-A1DF-6BEA98F05490}|Interfaz\\Interfaz.csproj|c:\\users\\lucas\\onedrive\\escritorio\\cursu c# nivel 2\\poo1\\interfaz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C8E52F-1010-40F9-A1DF-6BEA98F05490}|Interfaz\\Interfaz.csproj|solutionrelative:interfaz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C8E52F-1010-40F9-A1DF-6BEA98F05490}|Interfaz\\Interfaz.csproj|c:\\users\\lucas\\onedrive\\escritorio\\cursu c# nivel 2\\poo1\\interfaz\\canario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C8E52F-1010-40F9-A1DF-6BEA98F05490}|Interfaz\\Interfaz.csproj|solutionrelative:interfaz\\canario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C8E52F-1010-40F9-A1DF-6BEA98F05490}|Interfaz\\Interfaz.csproj|c:\\users\\lucas\\onedrive\\escritorio\\cursu c# nivel 2\\poo1\\interfaz\\flyable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C8E52F-1010-40F9-A1DF-6BEA98F05490}|Interfaz\\Interfaz.csproj|solutionrelative:interfaz\\flyable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C8E52F-1010-40F9-A1DF-6BEA98F05490}|Interfaz\\Interfaz.csproj|c:\\users\\lucas\\onedrive\\escritorio\\cursu c# nivel 2\\poo1\\interfaz\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C8E52F-1010-40F9-A1DF-6BEA98F05490}|Interfaz\\Interfaz.csproj|solutionrelative:interfaz\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C8E52F-1010-40F9-A1DF-6BEA98F05490}|Interfaz\\Interfaz.csproj|c:\\users\\lucas\\onedrive\\escritorio\\cursu c# nivel 2\\poo1\\interfaz\\tigre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C8E52F-1010-40F9-A1DF-6BEA98F05490}|Interfaz\\Interfaz.csproj|solutionrelative:interfaz\\tigre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C8E52F-1010-40F9-A1DF-6BEA98F05490}|Interfaz\\Interfaz.csproj|c:\\users\\lucas\\onedrive\\escritorio\\cursu c# nivel 2\\poo1\\interfaz\\pez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C8E52F-1010-40F9-A1DF-6BEA98F05490}|Interfaz\\Interfaz.csproj|solutionrelative:interfaz\\pez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C8E52F-1010-40F9-A1DF-6BEA98F05490}|Interfaz\\Interfaz.csproj|c:\\users\\lucas\\onedrive\\escritorio\\cursu c# nivel 2\\poo1\\interfaz\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C8E52F-1010-40F9-A1DF-6BEA98F05490}|Interfaz\\Interfaz.csproj|solutionrelative:interfaz\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Aguila.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\Cursu C# Nivel 2\\POO1\\Interfaz\\Aguila.cs",
+              "RelativeDocumentMoniker": "Interfaz\\Aguila.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\Cursu C# Nivel 2\\POO1\\Interfaz\\Aguila.cs",
+              "RelativeToolTip": "Interfaz\\Aguila.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:37:29.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Flyable.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\Cursu C# Nivel 2\\POO1\\Interfaz\\Flyable.cs",
+              "RelativeDocumentMoniker": "Interfaz\\Flyable.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\Cursu C# Nivel 2\\POO1\\Interfaz\\Flyable.cs",
+              "RelativeToolTip": "Interfaz\\Flyable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:30:59.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\Cursu C# Nivel 2\\POO1\\Interfaz\\Program.cs",
+              "RelativeDocumentMoniker": "Interfaz\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\Cursu C# Nivel 2\\POO1\\Interfaz\\Program.cs",
+              "RelativeToolTip": "Interfaz\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:27:11.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Perro.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\Cursu C# Nivel 2\\POO1\\Interfaz\\Perro.cs",
+              "RelativeDocumentMoniker": "Interfaz\\Perro.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\Cursu C# Nivel 2\\POO1\\Interfaz\\Perro.cs",
+              "RelativeToolTip": "Interfaz\\Perro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:25:11.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Canario.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\Cursu C# Nivel 2\\POO1\\Interfaz\\Canario.cs",
+              "RelativeDocumentMoniker": "Interfaz\\Canario.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\Cursu C# Nivel 2\\POO1\\Interfaz\\Canario.cs",
+              "RelativeToolTip": "Interfaz\\Canario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:24:48.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimalSalvaje.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\Cursu C# Nivel 2\\POO1\\Interfaz\\AnimalSalvaje.cs",
+              "RelativeDocumentMoniker": "Interfaz\\AnimalSalvaje.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\Cursu C# Nivel 2\\POO1\\Interfaz\\AnimalSalvaje.cs",
+              "RelativeToolTip": "Interfaz\\AnimalSalvaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:24:10.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\Cursu C# Nivel 2\\POO1\\Interfaz\\Animal.cs",
+              "RelativeDocumentMoniker": "Interfaz\\Animal.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\Cursu C# Nivel 2\\POO1\\Interfaz\\Animal.cs",
+              "RelativeToolTip": "Interfaz\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:23:47.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimalDomestico.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\Cursu C# Nivel 2\\POO1\\Interfaz\\AnimalDomestico.cs",
+              "RelativeDocumentMoniker": "Interfaz\\AnimalDomestico.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\Cursu C# Nivel 2\\POO1\\Interfaz\\AnimalDomestico.cs",
+              "RelativeToolTip": "Interfaz\\AnimalDomestico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:24:02.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tigre.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\Cursu C# Nivel 2\\POO1\\Interfaz\\Tigre.cs",
+              "RelativeDocumentMoniker": "Interfaz\\Tigre.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\Cursu C# Nivel 2\\POO1\\Interfaz\\Tigre.cs",
+              "RelativeToolTip": "Interfaz\\Tigre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:25:34.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pez.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\Cursu C# Nivel 2\\POO1\\Interfaz\\Pez.cs",
+              "RelativeDocumentMoniker": "Interfaz\\Pez.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\Cursu C# Nivel 2\\POO1\\Interfaz\\Pez.cs",
+              "RelativeToolTip": "Interfaz\\Pez.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:25:22.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Gato.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\Cursu C# Nivel 2\\POO1\\Interfaz\\Gato.cs",
+              "RelativeDocumentMoniker": "Interfaz\\Gato.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\Cursu C# Nivel 2\\POO1\\Interfaz\\Gato.cs",
+              "RelativeToolTip": "Interfaz\\Gato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:24:59.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

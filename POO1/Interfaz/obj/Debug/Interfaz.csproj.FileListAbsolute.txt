@@ -1,0 +1,7 @@
+C:\Users\lucas\OneDrive\Escritorio\Cursu C# Nivel 2\POO1\Interfaz\obj\Debug\Interfaz.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Escritorio\Cursu C# Nivel 2\POO1\Interfaz\obj\Debug\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Escritorio\Cursu C# Nivel 2\POO1\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\lucas\OneDrive\Escritorio\Cursu C# Nivel 2\POO1\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\lucas\OneDrive\Escritorio\Cursu C# Nivel 2\POO1\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\lucas\OneDrive\Escritorio\Cursu C# Nivel 2\POO1\Interfaz\obj\Debug\Interfaz.exe
+C:\Users\lucas\OneDrive\Escritorio\Cursu C# Nivel 2\POO1\Interfaz\obj\Debug\Interfaz.pdb

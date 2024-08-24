@@ -1,0 +1,7 @@
+C:\Users\lucas\OneDrive\Escritorio\Cursu C# Nivel 2\POO1\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\lucas\OneDrive\Escritorio\Cursu C# Nivel 2\POO1\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\lucas\OneDrive\Escritorio\Cursu C# Nivel 2\POO1\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\lucas\OneDrive\Escritorio\Cursu C# Nivel 2\POO1\Ejemplo1\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Escritorio\Cursu C# Nivel 2\POO1\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Escritorio\Cursu C# Nivel 2\POO1\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\lucas\OneDrive\Escritorio\Cursu C# Nivel 2\POO1\Ejemplo1\obj\Debug\Ejemplo1.pdb

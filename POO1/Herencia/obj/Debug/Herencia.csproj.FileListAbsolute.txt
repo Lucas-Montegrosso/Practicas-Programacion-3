@@ -1,0 +1,7 @@
+C:\Users\lucas\OneDrive\Escritorio\Cursu C# Nivel 2\POO1\Herencia\obj\Debug\Herencia.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Escritorio\Cursu C# Nivel 2\POO1\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Escritorio\Cursu C# Nivel 2\POO1\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\lucas\OneDrive\Escritorio\Cursu C# Nivel 2\POO1\Herencia\bin\Debug\Herencia.exe
+C:\Users\lucas\OneDrive\Escritorio\Cursu C# Nivel 2\POO1\Herencia\bin\Debug\Herencia.pdb
+C:\Users\lucas\OneDrive\Escritorio\Cursu C# Nivel 2\POO1\Herencia\obj\Debug\Herencia.exe
+C:\Users\lucas\OneDrive\Escritorio\Cursu C# Nivel 2\POO1\Herencia\obj\Debug\Herencia.pdb
